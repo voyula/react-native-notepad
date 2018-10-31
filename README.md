@@ -1,4 +1,4 @@
-# react-native-notepad
+# 👾 react-native-notepad
 
 [![Build Status][ico-travis]][link-travis]
 [![License][ico-license]][link-license]
